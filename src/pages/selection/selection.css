@@ -1,0 +1,62 @@
+* {
+    background: white;
+}
+
+.main {
+    display: flex;
+    padding-top: 20px;
+    justify-content: end;
+    justify-content: center;
+    gap: 20px;
+}
+
+.line {
+    
+}
+
+.manufacturer{
+    display: flex;
+    width: 184px;
+    height: 40px;
+}
+
+.model{
+    display: flex;
+    width: 184px;
+    height: 40px;
+}
+
+.generation {
+    display: flex;
+    width: 184px;
+    height: 40px;
+}
+
+.modification{
+    display: flex;
+    width: 184px;
+    height: 40px;
+}
+
+.body{
+    display: flex;
+    width: 184px;
+    height: 40px;
+}
+
+.btn{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center
+}
+
+.btntwo{
+   display: flex;
+   width: 232px;
+   height: 40px;
+   justify-content: center;
+   align-items: center;
+   background-color: orange;
+   border-radius: 3px;
+   color: white;
+}
