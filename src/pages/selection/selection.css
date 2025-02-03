@@ -11,12 +11,13 @@
 }
 
 
+
+
 .manufacturer{
     display: flex;
     width: 184px;
     height: 40px;
     color: gray;
-    
 }
 
 .model{
