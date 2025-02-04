@@ -1,0 +1,38 @@
+.action-taitle {
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.imgUrl{
+    width: 393px;
+    height: 252px;
+    top: 151px;
+}
+
+.urlgap{
+    display: flex;
+    justify-content: center;
+    grid-template-columns: repeat(2,1);
+    gap: 20px;
+}
+
+.textAction{
+    font-weight: 500;
+    size: 24px;
+    
+    display: flex;
+    justify-content: start;
+    text-align: left; 
+    align-items: flex-start; 
+}
+
+.diskBtn { 
+    display: flex;
+    background-color: #FFE9D5;
+    color: #FF7E00;
+    font-weight: 400;
+    font-size: 10px;
+    cursor: pointer;
+    border: none;
+    
+}
