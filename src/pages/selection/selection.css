@@ -1,0 +1,66 @@
+* {
+    background: white;
+}
+
+.main {
+    display: flex;
+    padding-top: 20px;
+    justify-content: end;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.manufacturer{
+    display: flex;
+    width: 184px;
+    height: 40px;
+    color: gray;
+    
+}
+
+.model{
+    display: flex;
+    width: 184px;
+    height: 40px;
+    color: gray;
+}
+
+.generation {
+    display: flex;
+    width: 184px;
+    height: 40px;
+    color: gray;
+}
+
+.modification{
+    display: flex;
+    width: 184px;
+    height: 40px;
+    color: gray;
+}
+
+.body{
+    display: flex;
+    width: 184px;
+    height: 40px;
+    color: gray;
+}
+
+.btn{
+    display: flex;
+    padding-top: 20px;
+    justify-content: center
+}
+
+.btntwo{
+   display: flex;
+   width: 232px;
+   height: 40px;
+   justify-content: center;
+   align-items: center;
+   background-color: orange;
+   border-radius: 3px;
+   color: white;
+   border: none;
+}
