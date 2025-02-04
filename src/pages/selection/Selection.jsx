@@ -5,7 +5,7 @@ const Selection = () => {
 
   return (
     <div>
-        <h1>Подберём шины и <a href='#'>диски</a> по марке автомобиля или <a href='#'>параметрам товара</a> </h1>
+        <h1 className='text'>Подберём<p className='line'>шины по марке автомобиля </p>или параметрам товара</h1>
         <div className='main'>
          <select className='manufacturer'>
           <option>Производитель</option>
